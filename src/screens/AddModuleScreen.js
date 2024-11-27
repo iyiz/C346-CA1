@@ -1,4 +1,4 @@
-
+//AddModuleScreen.js
 import React, { useState, useEffect } from 'react';
 import { View, TextInput, Button, Text, StyleSheet } from 'react-native';
 
