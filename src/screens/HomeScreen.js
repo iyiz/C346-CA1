@@ -1,4 +1,4 @@
-// HomeScreen.js
+
 import React, { useState } from 'react';
 import { View, Text, Button, FlatList, StyleSheet, TouchableOpacity } from 'react-native';
 
